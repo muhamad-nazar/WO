@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Dosis&family=Inter:wght@100&family=Lora:ital,wght@0,400;1,500&family=Montserrat:wght@100;400;500&family=Noto+Serif&family=Poppins:wght@100;300;400&family=Smooch&family=Work+Sans:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+body {
+    font-family: 'Ubuntu';
+    background-color: #fdf6ecf3;
+    overflow-x: hidden;
+}
+
+.nav-logo {
+    width: 100px;
+}
+
+.header {
+    font-size: 2em;
+    font-family: 'Dancing Script', cursive;
+}
+
+.sideTitle {
+    margin-top: 20px;
+    font-family: 'Lobster', cursive;
+}
+
+.content-img {
+    width: 100%;
+}
+
+.content-title {
+    font-size: 2em;
+    font-family: 'Lobster', cursive;
+    position: relative;
+    margin-top: -150px;
+    margin-bottom: 100px;
+    text-shadow: 11px 4px 10px #1593CE;
+}
+
+.section-title-text {
+    font-family: 'Lobster', cursive;
+}
+
+.divider-section {
+    width: 120px;
+    height: 5px;
+    background-color: #1593CE;
+}
+
+.sideImage {
+    width: 180px;
+}
+
+.actives {
+    border-bottom: 1px solid #fff;
+    color: #fff;
+}
+
+.event-image {
+    width: 100%;
+}
+
+@media screen and (max-width: 1000px) {}
